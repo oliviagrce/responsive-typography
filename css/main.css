@@ -35,7 +35,6 @@ article h1 {
   font-weight: normal;
   margin-top: .5em;
   margin-bottom: 0;
-  padding-bottom: .25em;
 }
 
 article header {
@@ -67,6 +66,7 @@ blockquote {
 
 article p {
   padding: 0;
+  margin-bottom: 0;
 }
 
 article ol {
