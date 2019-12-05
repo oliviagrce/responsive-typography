@@ -33,6 +33,7 @@ article {
 
 article h1 {
   font-weight: normal;
+  margin: 0;
 }
 
 article header {
@@ -53,6 +54,7 @@ blockquote {
   font-size: 1.125rem;
   display: flex;
   justify-content: center;
+  margin: 0;
 }
 
 .quote {
@@ -61,7 +63,7 @@ blockquote {
 
 article p {
   padding: 0;
-  margin-bottom: 1.3em;
+  margin-bottom: 0;
 }
 
 article ol {
