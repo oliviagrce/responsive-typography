@@ -67,11 +67,11 @@ blockquote {
 header p {
   padding: 0;
   margin-top: .25em;
+  margin-bottom: 1.3em;
 }
 
 article p {
   padding: 0;
-  margin-bottom: 0;
 }
 
 article ol {
